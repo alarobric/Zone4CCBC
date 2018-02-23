@@ -31,3 +31,7 @@ Zone4 allows you to do quite a lot while the race is in progress, but it's still
 
 - As mentioned before, try the Zone4 official help pages first: [Zone4 Help](http://help.zone4.ca/).
 - Contact an experienced volunteer: @alarobric on Github, Twitter, Facebook, etc. has done timing for many races at Whistler and Kamloops, and can also put you in contact with others in the province.
+
+## Contributing
+
+Contributions to this documentation are welcome. If you're comfortable with Github, feel free to send me a pull request with your changes, otherwise you can open an issue on Github with your suggestion, or even just send me an email with your change.
