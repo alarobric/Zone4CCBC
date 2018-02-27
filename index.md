@@ -43,6 +43,9 @@ TODO
 - Phone placement
 - Chip racks
 - Chip tester tool
+- Chip distribution logistics
+- Server box
+- How do Summits fit in?
 
 ## During the race
 
@@ -51,6 +54,48 @@ TODO
 - Timing grids
 - Results
 - Announcer view
+
+## Document resources
+
+### Run sheet
+
+| Time | Chief of Competition | Competition Secretary | Stadium | Course | Timing Inside | Timing Outside | Facility Logistics |
+|-------|--------|---------|---|---|-----|-----|-----|
+| 7:30 | | | | | | | gate open |
+| 7:45 | | | | | | bring out clocks, headset, beam and cables | |
+| 7:45 | | Race office opens | | | Bring out Summits, computer, modem | Loops and activators setup at lap and finish | Bunker and tech building open |
+| 7:55 | | | | | Bring up start lists | | |
+| 8:00 | Pre-ski course | Bib pickup opens | Start line and finish line | | Summits checked / tested | Finish beam setup | Storage locker open |
+| 8:15 | | | | | Chips assigned | | |
+| 8:45 | | | Lap and finish lanes signed | | Zone4 race file loaded | Display and start clocks synced | Comm panel open |
+| 8:55 | | | | | Chip racks delivered to pick up | Display and start clocks to start area | |
+| 9:00 | | | Finish line in, fence off red zone | Course opens | Summits synced | Headsets and cable to boxes in stadium | |
+| 9:15 |
+| 9:30 |
+| 9:45 |
+| 9:55 |
+| 10:00 |
+| 10:20 |
+| 10:40 |
+| 10:40 |
+| 10:45 |
+| 11:30 |
+| 12:30 |
+| 13:30 |
+| 13:30 |
+| 14:00 |
+| 14:15 |
+| 14:30 |
+| 15:00 |
+| 15:30 |
+| 15:45 |
+| 15:50 |
+| 15:55 |
+| 16:00 |
+
+### Volunteer assignments
+
+### Timing diagram
 
 ## Other resources
 
