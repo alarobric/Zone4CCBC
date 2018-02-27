@@ -22,10 +22,35 @@ Zone4 allows you to do quite a lot while the race is in progress, but it's still
 - Configure result sets (overall, category, chip handout lists, etc)
 - Configure and test timing points
 
+## Hardware (GoChips)
+
+The new GoChip system from Zone4 makes many aspects of timing simpler and more automated, but introduces some new issues to think about and plan for.
+
+At a high level, the GoChips are an active chip system. Each chip has memory and a battery. Chips are woken up and activated by movement, and will sleep to conserve battery between uses. When a chip passes over a wire loop activator, the time and loop number is stored on the chip. Chips also have a bluetooth connection, and will automatically connect to Android phones running the Zone4 app. Times are then transferred to the phone, and from there to the Zone4 servers.
+
+The activators are a small brick sized box with a few status lights and connectors to attach the wire loop. This loop runs from the activator and across your course around the finish line or other timing point you wish to capture. The chip will use the centre point of the loop to capture the time, so the loop should be evenly spaced across the trail at a constant width either side of the finish line.
+
+This image shows the basic process.
+
+![Flow for reading a chip]({{ "/assets/gochip-flow.svg" | absolute_url }})
+
+Because times are stored on the chip, timing points can be placed around the course without needing network connectivity. The times will be read off the chip once it connects with a phone.
+
+TODO
+
+- Activator placement
+- Loop checker
+- Phone placement
+- Chip racks
+- Chip tester tool
+
 ## During the race
+
+TODO
 
 - Timing grids
 - Results
+- Announcer view
 
 ## Other resources
 
