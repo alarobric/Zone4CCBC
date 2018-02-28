@@ -36,7 +36,44 @@ This image shows the basic process.
 
 Because times are stored on the chip, timing points can be placed around the course without needing network connectivity. The times will be read off the chip once it connects with a phone.
 
+### Equipment by race type
+
+Depending on the type and size of race you hold, you will have different requirements for timing equipment.
+
+#### Small club time trial
+
+Could be timed simply with the Zone4 mobile app using the keypad entry. Similar to this would be using Webscorer and their app for keypad entry.
+
+#### Loppet
+
+Loppets typically have no rules on timing, and are mass start events. Order of finish is more important than times, and so finish beams are not required. Using chips as a primary time makes most of the timing automatic and reduces the number of volunteers required. The cost of chips is more easily born by the generally higher race fees.
+Consider the difficulties of handing out hundreds of chips at once to a large starting field however, and make sure to plan enough volunteer help at the start.
+
+#### Regional Cup
+
 TODO
+
+#### BC Cup/Westerns
+
+At BC Cup level events and higher, chips are not allowed to be the primary time source. Instead we use the finish beams, with summit plungers as backup, and use the chips for bib order and backup.
+
+#### NorAm/Nationals
+
+TODO
+
+#### Summary
+
+This graph summarizes these suggestions:
+
+| | Phone keypad | Summit keypad | Finish beams | Chips | Finish camera |
+|--|---|---|---|---|---|
+| Time trial | x | | | | |
+| Loppet | x | x | | x | |
+| Regional cup | | x | x | o | |
+| BC Cup | | x | x | x | o |
+| National | | x | x | x | x |
+
+### More TODO
 
 - Activator placement
 - Loop checker
@@ -63,9 +100,11 @@ TODO
 
 ### Volunteer assignments
 
-[Volunteer assignments](volunteer-assignments) - TODO
+[Volunteer assignments](volunteer-assignments) - different roles required
 
 ### Timing diagram
+
+TODO
 
 ## Other resources
 
