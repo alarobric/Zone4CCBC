@@ -63,7 +63,7 @@ TODO
 
 #### Summary
 
-This graph summarizes these suggestions:
+This table summarizes these suggestions:
 
 | | Phone keypad | Summit keypad | Finish beams | Chips | Finish camera |
 |--|---|---|---|---|---|
@@ -102,9 +102,9 @@ TODO
 
 [Volunteer assignments](volunteer-assignments) - different roles required
 
-### Timing diagram
+### Timing diagrams
 
-TODO
+[2018 Payak timing diagram - chips but no Summits](assets/2018 P'ayak TIMING DIAGRAM without Summits.pdf)
 
 ## Other resources
 
