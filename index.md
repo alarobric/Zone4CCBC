@@ -59,11 +59,11 @@ TODO
 
 ### Run sheet
 
-[Run sheet](/run-sheet) - describes tasks done by different teams throughout the race
+[Run sheet](run-sheet) - describes tasks done by different teams throughout the race
 
 ### Volunteer assignments
 
-[Volunteer assignments](/volunteer-assignments) - TODO
+[Volunteer assignments](volunteer-assignments) - TODO
 
 ### Timing diagram
 
