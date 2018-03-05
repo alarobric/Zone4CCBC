@@ -81,9 +81,9 @@ It's considered good practice to separate tasks and functions between different 
 
 When using a serverbox or the old desktop Zone4, a network switch to connect all timing computer is highly recommended. Zone4 will ship a Ubiquiti Bullet Wifi access point with the serverbox, and while this is useful for the phones, it works best for the timing computers to be hardwired together. A networked printer is also a good idea, as this allows anyone to print results if necessary. See the following two network diagrams as examples.
 
-![Network diagram without serverbox]({{ "/assets/network-diagram.svg" | absolute_url }})
+![Network diagram without serverbox]({{ "/assets/network-diagram.png" | absolute_url }})
 
-![Network diagram with serverbox and Summits]({{ "/assets/network-diagram-serverbox.svg" | absolute_url }})
+![Network diagram with serverbox and Summits]({{ "/assets/network-diagram-serverbox.png" | absolute_url }})
 
 ### More TODO
 
