@@ -77,11 +77,13 @@ Because times are stored on the chip, timing points can be placed around the cou
 
 ### Hardware (Networking)
 
-Good practice to separate functions (Start/Laps, Finishes, Printing results and verification)
+It's considered good practice to separate tasks and functions between different computers and people as your resources allow. Consider the following different areas: Starts/Laps, Finishes, result verification, result printing. Often 2 dedicated people on computers can share the workload quite efficiently with a runner available to post results, go fix issues in the stadium or relay messages to the timers outside.
 
-When using a serverbox or the old desktop Zone4, a network switch to connect all timing computer is highly recommended. Zone4 will ship a Ubiquiti Bullet Wifi access point with the serverbox, and while this is useful for the phones, it works best for the timing computers to be hardwired together. A networked printer is also a good idea, as this allows anyone to print results if necessary.
+When using a serverbox or the old desktop Zone4, a network switch to connect all timing computer is highly recommended. Zone4 will ship a Ubiquiti Bullet Wifi access point with the serverbox, and while this is useful for the phones, it works best for the timing computers to be hardwired together. A networked printer is also a good idea, as this allows anyone to print results if necessary. See the following two network diagrams as examples.
 
-TODO: network diagram
+![Network diagram without serverbox]({{ "/assets/network-diagram.svg" | absolute_url }})
+
+![Network diagram with serverbox and Summits]({{ "/assets/network-diagram-serverbox.svg" | absolute_url }})
 
 ### More TODO
 
