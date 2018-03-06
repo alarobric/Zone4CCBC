@@ -9,6 +9,8 @@ Please note that Zone4 is always changing and improving their software, and cont
 
 The first step to running a race is getting people registered.
 
+TODO
+
 - Create a registration page
 - Create a race
 - Setup start groups
@@ -83,11 +85,15 @@ When using a serverbox or the old desktop Zone4, a network switch to connect all
 
 #### Network diagram without serverbox
 
-![Network diagram without serverbox]({{ "/assets/network-diagram.png" | absolute_url }})
+![Network diagram without serverbox]({{ "/assets/network-diagram.png" | absolute_url }}){:width="700px"}
 
 #### Network diagram with serverbox
 
-![Network diagram with serverbox and Summits]({{ "/assets/network-diagram-serverbox.png" | absolute_url }})
+![Network diagram with serverbox and Summits]({{ "/assets/network-diagram-serverbox.png" | absolute_url }}){:width="700px"}
+
+#### Network diagram from WOP with serverbox, POE, Summits
+
+![Network diagram from WOP with serverbox, POE, Summits]({{ "/assets/network-diagram-wop.png" | absolute_url }}){:width="700px"}
 
 ### Physical setup
 
