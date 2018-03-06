@@ -20,6 +20,8 @@ TODO
 
 Zone4 allows you to do quite a lot while the race is in progress, but it's still best to be prepared and get some things setup beforehand.
 
+TODO
+
 - Configure course groups
 - Configure result sets (overall, category, chip handout lists, etc)
 - Configure and test timing points
@@ -105,6 +107,10 @@ At this point, you can test the activator using the chip tester that came with t
 Finally, the phones running the Zone4 app can be placed either on the ground, or ideally on tripods. Best is to place them 5m after the timing point or so, but we've used them on the side of the trail right at the timing point before with no issues. If you're using the keypad for manual timing then you'll need the phone at the line obviously.
 
 You can test the phone app by taking a spare chip and running it over the wire loop activator. You should see it show up in the app and hear a ping noise.
+
+This installation process takes a considerable amount of time, depending on how hard the snow is. Consider assigning 2 timing volunteers the task of digging the loops in before the race starts.
+
+The Zone4 phones should remain with the wire loops and actuators, and not with the timing teams that may be using them. This allows for testing after installation and prior to the race.
 
 TODO screenshot
 
