@@ -1,7 +1,8 @@
 ---
+title: Zone4 with CCBC
 toc: true
 ---
-# Zone4 with CCBC
+# Overview
 
 The web version of Zone4 and accompanying Go Chips system is a large change from what many are used to using to time cross-country skiing and other sports in British Columbia.
 This site will help give some best practices and pointers for how to use the software in a well-known consistent manner throughout the province.
@@ -29,7 +30,7 @@ TODO
 - Configure result sets (overall, category, chip handout lists, etc)
 - Configure and test timing points
 
-## Hardware
+## [Hardware](hardware)
 
 Including information on different hardware requirements for different types and size of races, as well as the new GoChips, activators, and phones.
 

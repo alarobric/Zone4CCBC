@@ -3,7 +3,9 @@ title: Hardware
 permalink: /hardware/
 toc: true
 ---
-# Hardware
+# Overview
+
+This page includes information on different hardware requirements for different types and size of races, as well as the new GoChips, activators, and phones.
 
 ## Equipment by race type
 

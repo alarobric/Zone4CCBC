@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - titel: "Registration"
+  - title: "Registration"
     url: /registration
   - title: "Hardware"
     url: /hardware
