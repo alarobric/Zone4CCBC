@@ -9,7 +9,7 @@ This site will help give some best practices and pointers for how to use the sof
 
 Please note that Zone4 is always changing and improving their software, and content here may become out of date. They have a great help system of their own over at [Zone4 Help](http://help.zone4.ca/).
 
-## Registration
+## [Registration](registration)
 
 The first step to running a race is getting people registered.
 
@@ -34,11 +34,9 @@ TODO
 
 Including information on different hardware requirements for different types and size of races, as well as the new GoChips, activators, and phones.
 
-[Hardware](hardware)
+## [Day of - setup](setup)
 
-## Day of - setup
-
-[Setup](setup)
+Includes discussion on network setup and configuration, the physical setup of the timing equipment, and chip distribution.
 
 ## More TODO
 
@@ -46,7 +44,7 @@ Including information on different hardware requirements for different types and
 - Server box
 - How do Summits fit in?
 
-## During the race
+## [During the race](timing)
 
 TODO
 

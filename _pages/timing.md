@@ -3,6 +3,8 @@ title: Timing
 permalink: /timing/
 toc: true
 ---
+# Timing
+
 ## Pre-race setup
 
 Zone4 allows you to do quite a lot while the race is in progress, but it's still best to be prepared and get some things setup beforehand.
