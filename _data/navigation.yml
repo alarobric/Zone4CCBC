@@ -2,5 +2,11 @@
 main:
   - title: "Home"
     url: /
+  - titel: "Registration"
+    url: /registration
   - title: "Hardware"
     url: /hardware
+  - title: "Setup"
+    url: /setup
+  - title: "Timing"
+    url: /timing
