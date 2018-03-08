@@ -1,0 +1,6 @@
+---
+permalink: /hardware/
+---
+# Testing
+
+test

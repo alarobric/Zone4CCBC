@@ -1,6 +1,6 @@
 ---
 title: Volunteer Assignments Sample
-#layout: page
+permalink: /volunteer-assignments/
 ---
 
 Here is a typical volunteer assignment page, from the 2018 Payak at Whistler Olympic Park.

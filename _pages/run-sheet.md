@@ -1,5 +1,6 @@
 ---
 title: Run Sheet Sample
+permalink: /run-sheet/
 ---
 Here is a typical run-sheet from the 2018 Payak race at Whistler Olympic Park.
 
