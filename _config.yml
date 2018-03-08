@@ -1,1 +1,25 @@
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
+remote_theme: "mmistakes/minimal-mistakes"
+#theme: jekyll-theme-cayman
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: pages
+    values:
+      layout: single
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      
+minimal_mistakes_skin: "default" #"air"
+
+# Site Settings
+locale: "en"
+title: Zone4 in CCBC
+description: Templates, help, and tips for setting up and using the new Zone4 for ski races in British Columbia.
+
+include: ["_pages"]

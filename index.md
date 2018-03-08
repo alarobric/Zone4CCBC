@@ -1,3 +1,6 @@
+---
+toc: true
+---
 # Zone4 with CCBC
 
 The web version of Zone4 and accompanying Go Chips system is a large change from what many are used to using to time cross-country skiing and other sports in British Columbia.
