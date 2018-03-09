@@ -3,8 +3,6 @@ title: Registration
 permalink: /registration/
 toc: true
 ---
-# Registration
-
 The first step to running a race is getting people registered.
 
 TODO
