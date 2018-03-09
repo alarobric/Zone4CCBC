@@ -40,7 +40,6 @@ Includes discussion on network setup and configuration, the physical setup of th
 
 ## More TODO
 
-- Chip tester tool
 - Server box
 - How do Summits fit in?
 

@@ -38,7 +38,27 @@ This installation process takes a considerable amount of time, depending on how 
 
 The Zone4 phones should remain with the wire loops and actuators, and not with the timing teams that may be using them. This allows for testing after installation and prior to the race.
 
-TODO screenshot
+TODO photo
+
+### Chip testing
+
+Zone4 has a chip testing tool built-in to the web interface, but it's a bit hidden away currently. It is highly recommended to run your chips through this tool in advance of the race in order to catch any missing or dead tags.
+
+To find the chip tester tool, head to Zone4 and sign in. Instead of opening a race, go to the club overview page and choose Timing Devices from the menu.
+![Timing Devices menu entry]({{ "/assets/timing-devices-menu.png" | absolute_url }}){:width="300px"}
+
+On this page you'll find a device authorization code you may need for the phone apps, but also you'll see a list of timing devices assigned to your club. Choose the GoChip device you plan to test chips with and click Settings.
+![Go Chip settings]({{ "/assets/go-chip-settings.png" | absolute_url }}){:width="300px"}
+
+On the next screen you'll see some settings for the times coming from this activator, under the tools menu select Chip Tester.
+![Chip Tester menu]({{ "/assets/chip-tester-menu.png" | absolute_url }}){:width="300px"}
+
+Now you've reached the chip tester!. Follow the instructions on the page and test each rack of chips. You'll need to start your activator and a phone, shake a single rack of chips and pass it over the activator. You should hear tons of ping noises as the chips are activated and then read by the phone. Now back on the computer you'll see text appear in the white space, either telling you that certain chips from the rack are missing or that all chips were found.
+![Chip Tester]({{ "/assets/chip-tester.png" | absolute_url }}){:width="300px"}
+
+If any chips are missing you can try passing the whole rack over again, or open it up and hunt down those specific chips to test individually.
+
+Once you're done with one rack, hit reset and then try the next.
 
 ## Chip distribution
 
