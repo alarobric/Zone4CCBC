@@ -20,15 +20,11 @@ TODO
 - Setup start groups
 - Create the start list and post it online
 
-## Pre-race setup
+## [Pre-race setup](timing)
 
 Zone4 allows you to do quite a lot while the race is in progress, but it's still best to be prepared and get some things setup beforehand.
 
-TODO
-
-- Configure course groups
-- Configure result sets (overall, category, chip handout lists, etc)
-- Configure and test timing points
+This covers: race settings, racer groups, start lists, and courses.
 
 ## [Hardware](hardware)
 
@@ -45,13 +41,7 @@ Includes discussion on network setup and configuration, the physical setup of th
 
 ## [During the race](timing)
 
-TODO
-
-- Timing grids
-- Results
-- Announcer view
-
-- Sample bib order sheet, old Zone4 interface uploaded as assets
+This covers configuring timing devices and courses, setting up result sets, announcer views, and actually timing a race.
 
 ## Document resources
 
@@ -70,8 +60,10 @@ TODO
 ## Other resources
 
 - As mentioned before, try the Zone4 official help pages first: [Zone4 Help](http://help.zone4.ca/).
-- Contact an experienced volunteer: @alarobric on Github, Twitter, Facebook, etc. has done timing for many races at Whistler and Kamloops, and can also put you in contact with others in the province.
+- Contact an experienced volunteer: @alarobric on Github, Twitter, Facebook, etc. has done timing for many races at Whistler and Kamloops, and can also put you in contact with others in the province. Let me know if you'd like to be a resource here also.
 
 ## Contributing
 
 Contributions to this documentation are welcome. If you're comfortable with Github, feel free to send me a pull request with your changes, otherwise you can open an issue on Github with your suggestion, or even just send me an email with your change.
+
+[Github source](https://github.com/alarobric/Zone4CCBC)
